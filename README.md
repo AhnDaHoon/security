@@ -78,7 +78,7 @@ CSRF 사이트 간 요청 위조
 이러한 취약성을 CSRF, 사이트 간 요청 위조라고 한다.
 <br/>
 <br/>
-Spring Security를 추가하면 GET이 아닌 POST, PUT 등 요청에 CSRF 보호가 설정된다.
+Spring Security를 추가하면 GET이 아닌 POST, PUT요청에 CSRF 보호가 설정된다.
 
 ### Spring Security Logout 동작방식
 1. 사용자가 로그아웃 요청
