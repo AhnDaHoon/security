@@ -1,4 +1,4 @@
-package com.in28.learnspringsecurity;
+package com.in28.learnspringsecurity.basic;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.web.csrf.CsrfToken;

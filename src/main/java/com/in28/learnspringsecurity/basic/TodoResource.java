@@ -1,4 +1,4 @@
-package com.in28.learnspringsecurity;
+package com.in28.learnspringsecurity.basic;
 
 import org.springframework.web.bind.annotation.*;
 
